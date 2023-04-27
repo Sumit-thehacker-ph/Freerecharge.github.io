@@ -1,0 +1,134 @@
+ *{ margin: 0;
+  padding: 0;
+}
+
+header {
+  background: rgb(255, 255, 230);
+  height: 35px;
+  margin-bottom: 2vh;
+  padding: 17.5px 0 0 60px;
+  font-family: "Tw Cen TM";
+  color: rgb(150, 150, 200);
+  font-size: 13px;
+}
+
+.fac {
+  font-family: "Tw Cen TM";
+  color: rgb(2, 115, 244);
+  margin: 7px;
+  font-size: 22px;
+}
+
+.text {
+  border: none;
+  background: rgb(244, 244, 246);
+  height: 43px;
+  width: 410px;
+  border-radius: 5px;
+  margin: 3px 4vw;
+  padding: 0 15px;
+}
+
+.password {
+  border: none;
+  background: rgb(244, 244, 246);
+  height: 43px;
+  width: 410px;
+  border-radius: 5px;
+  margin: 3px 4vw;
+  padding: 0 15px;
+}
+
+.submit {
+  height: 39px;
+  width: 410px;
+  margin: 3px 4vw;
+  border-radius: 5px;
+  border: none;
+  background: rgb(2, 115, 244);
+  color: white;
+  font-size: 17px;
+}
+
+.fp {
+  color: rgb(2, 115, 244);
+  font-family: "Tw Cen TM";
+  margin: 10px;
+  font-size: 15px;
+}
+
+.or {
+  display: flex;
+  font-family: "Tw Cen TM";
+  padding: 8px 16px;
+}
+
+.l1 {
+  width: 180px;
+  margin: 10px;
+  color: black;
+  border-left: none;
+  border-bottom: none;
+}
+
+.l2 {
+  width: 180px;
+  margin: 10px;
+  color: black;
+  border-left: none;
+  border-bottom: none;
+}
+.create{
+  background: rgb(5, 160, 5);
+  border: none;
+  height: 35px;
+  width: 155px;
+  border-radius: 4px;
+  color: white;
+}
+.lan {
+  display: flex;
+  flex-direction: row;
+  padding: 100px 50px 15px 50px;
+}
+
+.lan1 {
+  width: 150px;
+  font-family: "Tw Cen TM";
+  font-size: 12px;
+  margin: 0 3px;
+  color: rgb(150, 150, 180)
+}
+.eng{
+  color: rgb(150, 150, 150);
+}
+
+.lan2 {
+  width: 150px;
+  font-family: "Tw Cen TM";
+  font-size: 12px;
+  margin: 0 150px;
+  color: rgb(150, 150, 180)
+}
+.plu {
+  height: 22px;
+  width: 22px;
+  border-width: 1px;
+  border-color: rgb(150, 150, 150);
+    color: rgb(150, 150, 180);
+  border-radius: 4px;
+  background: none;
+}
+
+footer {
+  font-size: 10px;
+  font-family: "Tw Cen TM";
+  color: rgb(150, 150, 150)
+}
+
+._footer {
+  display: flex;
+  flex-direction: row;
+  width: 200px;
+  margin: 0 171px;
+}
